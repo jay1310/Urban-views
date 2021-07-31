@@ -10,6 +10,11 @@
 A Full stack MERN website for movie theatres where user can search for movies and filter by rating and genres that are available,
 and admin can add movie to the list and much more.
 <img width="1438" alt="ss" src="https://user-images.githubusercontent.com/64154442/127747459-ee08a095-49e1-4d6f-baec-351655909dac.png">
+<img width="1438" alt="ss" src="https://user-images.githubusercontent.com/64154442/127747778-52ff0d33-a1e5-4e61-8b2d-22a8e19cb07c.png">
+
+<img width="1438" alt="ss" src="https://user-images.githubusercontent.com/64154442/127747782-37b7ec31-bb6f-4610-ba22-7ef987ffd639.JPG">
+                                
+<img width="1438" alt="ss" src="https://user-images.githubusercontent.com/64154442/127747780-962a2e87-05b0-4826-8bc7-549151084dad.png">
 
 <small>This project will be completed and hosted very soon! </small>
 
